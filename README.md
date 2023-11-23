@@ -90,7 +90,7 @@ for i in range(len(X_test)):
 
 
 # Link to run if this copy paste is not working
-https://replit.com/@vigneshm2021csb/naive-bayes
+https://replit.com/@vigneshm2021csb/naive-bayes#main.py
 
 
 # input
